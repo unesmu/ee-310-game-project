@@ -1,0 +1,6 @@
+#define MOD_BG_MUSIC	0
+#define SFX_BOXING_HIT	14
+#define SFX_SMACK	15
+#define MSL_NSONGS	1
+#define MSL_NSAMPS	16
+#define MSL_BANKSIZE	17
