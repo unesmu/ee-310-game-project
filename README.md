@@ -1,7 +1,7 @@
 # Microprogrammed Embedded Systems (EE-310) project
 
 ## Description
-Code for my personal project in micro embedded systems at EPFL (EE-310). It is a video game that is heavily inspired from "world's hardest game from the website [coolmathgames](https://www.coolmathgames.com/0-worlds-hardest-game) (Beware there is a considerable amount of advertisements on the website). This was coded in C++ and runs on a nintento DS console.
+Code for my personal project in micro embedded systems at EPFL (EE-310). It is a video game that is heavily inspired from "world's hardest game from the website [coolmathgames](https://www.coolmathgames.com/0-worlds-hardest-game) (Beware there is a considerable amount of advertisements on the website). This was coded in C and runs on a nintento DS console.
 
 ## Preview 
 
